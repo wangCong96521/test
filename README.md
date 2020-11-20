@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # VueTeMplate
+=======
+# bit-system
+>>>>>>> 877f815 (第二次提交)
 
 > A Vue.js project
 
