@@ -1,4 +1,4 @@
-# bit-system
+# VueTeMplate
 
 > A Vue.js project
 
